@@ -1,6 +1,7 @@
 http://localhost:8081/firstDemo/swagger-ui.html
 http://localhost:8081/firstDemo/hello/sayHello
 
+github.token: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
 ---------------------------------------------------------------
 
 error.html会覆盖默认的 whitelabel Error Page 错误提示
