@@ -1,0 +1,14 @@
+git config --list查看全局配置
+
+# 移除全局配置账户
+git config --global --unset user.name
+#查看全局用户名
+git config --global user.name
+# 移除全局配置邮箱
+git config --global --unset user.email
+# 查看全局邮箱
+git config --global user.email
+# 移除全局密码
+git config --global --unset user.password
+# 查看全局密码
+git config --global user.password
