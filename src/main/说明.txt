@@ -25,6 +25,7 @@ public void addResourceHandlers(ResourceHandlerRegistry registry) {
         super.addResourceHandlers(registry);
     }
 
+
 // addResourceHandler也可表示硬盘文件
         registry.addResourceLocations("file:G:/itemsource/smallapple/") //媒体资源
     .addResourceLocations("classpath:/META-INF/resources/");  //swagger2页面
